@@ -2,4 +2,4 @@
 Repositório de Projeto sobre GIt/GitHub da DIO
 
 ## Links Ùteis
-[Sintaxe_basica_marckdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe basica marckdown] (https://www.markdownguide.org/basic-syntax/)
